@@ -2,7 +2,7 @@
 
 A modern JavaScript-based event management and scheduling application designed to simplify tech event planning and coordination.,
 ## About
-
+c
 **TechEvent** is a lightweight, web-based solution for managing technology events. Whether you're organizing a conference, hackathon, meetup, or webinar, TechEvent provides the tools to streamline event creation, scheduling, and attendee management.
 
 ## Features
